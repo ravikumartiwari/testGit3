@@ -3,9 +3,3 @@ test
 2
 3
 
-
-<<<<<<< HEAD
-from LOCAL
-=======
-from GIT 
->>>>>>> refs/remotes/origin/master
