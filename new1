@@ -4,4 +4,9 @@ test
 3
 
 
+<<<<<<< HEAD
 from local
+=======
+
+frm GIT
+>>>>>>> refs/remotes/origin/master
